@@ -16,6 +16,7 @@ This project involves the PCB layout design for the ACF Output PCBA, a daughter 
     - Part Number: NE8FBV-C5-LED (EtherCON RJ45 receptacles with integrated light pipes)
         - Please add those resistors and capacitors next to the ethernet connectors.
         - And also add a TVS protection on each RS485 differential pair, we usually use the SM712
+        - Reference design for Ethernet and TVS Datasheet is pushed to docs (to be considered as a suggestion and reference only)
 - Board to Board Data x 2
     - Part Number: SSW-110-02-G-D-RA-N Mfr.: Samtec
     - User Interface PCBA for reference:  
