@@ -18,7 +18,7 @@ This project involves the PCB layout design for the ACF Output PCBA, a daughter 
         - And also add a TVS protection on each RS485 differential pair, we usually use the SM712
 - Board to Board Data x 2
     - Part Number: SSW-110-02-G-D-RA-N Mfr.: Samtec
-    - User Interface PCBA for reference:
+    - User Interface PCBA for reference:  
 ![image](https://github.com/user-attachments/assets/a93cce57-ea25-4116-9c70-b5d211468c1b)
 - LED Indicators for Ethernet
     - Each RJ45 port requires:
@@ -34,8 +34,8 @@ This project involves the PCB layout design for the ACF Output PCBA, a daughter 
         - 2x 24V lines (14AWG)
         - 2x GND (14AWG)
         - 4x differential data pair (twisted pair) to panels (26AWG) (total of 8 wires)
-        - 8A current capacity for power lines
-![image](https://github.com/user-attachments/assets/819f064f-dfa1-48e8-9fa3-8ff628941cdf)
+        - 8A current capacity for power lines  
+![image](https://github.com/user-attachments/assets/819f064f-dfa1-48e8-9fa3-8ff628941cdf)  
     - Pinout and mechanical dimensions will be confirmed during layout phase
 ### Pin Number Reference Photos
 ![image](https://github.com/user-attachments/assets/68f21b23-1c99-4672-b4e2-2857b27c3b59)
