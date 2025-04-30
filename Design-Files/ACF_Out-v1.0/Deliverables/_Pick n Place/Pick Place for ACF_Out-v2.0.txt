@@ -1,18 +1,18 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\stephenlong-acfoutputpcb\Design-Files\ACF_Out-v1.0\Project Outputs for ACF_Out-v2.0\Pick Place for ACF_Out-v2.0.txt
+E:\aSim Data\GitHub\stephenlong-acfoutputpcb\Design-Files\ACF_Out-v1.0\Project Outputs for ACF_Out-v2.0\Pick Place for ACF_Out-v2.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       30/04/25
-Time:       18:09
-Revision:   fc3080145714ae66ddf563868f6fbe0be98e8cfd
+Date:       01/05/25
+Time:       02:14
+Revision:   195e0919971406de30fe91f0ff696068a2fd53f6
 Variant:    No variations
 Units used: mm
 
 Designator Center-X(mm) Center-Y(mm) Layer       Rotation Ref-X(mm)  Ref-Y(mm) Pad-X(mm)  Pad-Y(mm) 
-C1         21.8675mm    36.6406mm    BottomLayer 0        21.8675mm  36.6406mm 20.8515mm  36.6406mm 
-C2         18.1890mm    40.3658mm    BottomLayer 270      18.1890mm  40.3658mm 18.1890mm  41.3818mm 
+C1         14.0297mm    33.7262mm    BottomLayer 0        14.0297mm  33.7262mm 13.0137mm  33.7262mm 
+C2         10.3512mm    37.4514mm    BottomLayer 270      10.3512mm  37.4514mm 10.3512mm  38.4674mm 
 C3         62.8930mm    71.4728mm    BottomLayer 270      62.8930mm  71.4728mm 62.8930mm  72.2348mm 
 C4         67.9730mm    71.4728mm    BottomLayer 270      67.9730mm  71.4728mm 67.9730mm  72.2348mm 
 C5         70.5130mm    71.4728mm    BottomLayer 270      70.5130mm  71.4728mm 70.5130mm  72.2348mm 
@@ -31,8 +31,9 @@ J3         122.8525mm   28.6650mm    TopLayer    0        120.6300mm 33.1100mm 1
 J4         43.9156mm    88.2545mm    BottomLayer 180      43.9156mm  88.2545mm 55.3456mm  89.5245mm 
 J5         80.9425mm    72.1400mm    TopLayer    0        82.2200mm  74.1350mm 78.0850mm  70.2350mm 
 J6         119.0425mm   72.1400mm    TopLayer    0        120.3200mm 74.1350mm 116.1850mm 70.2350mm 
-J7         30.7018mm    52.5310mm    TopLayer    0        30.0500mm  52.0900mm 27.9980mm  57.7280mm 
-L1         25.6566mm    38.0972mm    BottomLayer 270      25.6566mm  38.0972mm 25.6566mm  39.0472mm 
+J7         8.4836mm     52.1528mm    BottomLayer 90       8.4836mm   52.1528mm 9.1436mm   56.6528mm 
+J8         4.1910mm     37.4716mm    TopLayer    90       4.1910mm   37.4716mm 4.1910mm   34.9316mm 
+L1         17.8188mm    35.1828mm    BottomLayer 270      17.8188mm  35.1828mm 17.8188mm  36.1328mm 
 LED1       75.5300mm    85.6550mm    TopLayer    180      75.5300mm  85.6550mm 76.8000mm  85.6550mm 
 LED2       113.6300mm   85.6550mm    TopLayer    180      113.6300mm 85.6550mm 114.9000mm 85.6550mm 
 LED3       89.5300mm    85.6550mm    TopLayer    180      89.5300mm  85.6550mm 90.8000mm  85.6550mm 
@@ -77,4 +78,4 @@ R37        121.3412mm   62.2554mm    BottomLayer 270      121.3412mm 62.2554mm 1
 R38        123.7288mm   62.2554mm    BottomLayer 90       123.7288mm 62.2554mm 123.7288mm 61.4934mm 
 T1         66.0680mm    64.1808mm    BottomLayer 270      66.0680mm  64.1808mm 61.6230mm  68.4458mm 
 T2         104.1680mm   64.1808mm    BottomLayer 270      104.1680mm 64.1808mm 99.7230mm  68.4458mm 
-U1         21.5881mm    39.5450mm    BottomLayer 0        21.5881mm  39.5450mm 20.5931mm  38.5450mm 
+U1         13.7503mm    36.6306mm    BottomLayer 0        13.7503mm  36.6306mm 12.7553mm  35.6306mm 
