@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\aSim Data\GitHub\stephenlong-acfoutputpcb\Design-Files\ACF_Out-v1.0\Project Outputs for ACF_Out-v2.0\Pick Place for ACF_Out-v2.0.txt
+C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\stephenlong-acfoutputpcb\Design-Files\ACF_Out-v2.0\Project Outputs for ACF_Out-v2.0\Pick Place for ACF_Out-v2.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       01/05/25
-Time:       02:14
-Revision:   195e0919971406de30fe91f0ff696068a2fd53f6
+Date:       02/05/25
+Time:       20:15
+Revision:   e86c4969abb868f726e60c7d46137c8100ae8e57
 Variant:    No variations
 Units used: mm
 
@@ -23,7 +23,7 @@ C9         106.0730mm   71.4728mm    BottomLayer 270      106.0730mm 71.4728mm 1
 C10        108.6130mm   71.4728mm    BottomLayer 270      108.6130mm 71.4728mm 108.6130mm 72.2348mm 
 C11        127.3730mm   65.9130mm    BottomLayer 270      127.3730mm 65.9130mm 127.3730mm 67.1830mm 
 C12        107.3430mm   71.4728mm    BottomLayer 270      107.3430mm 71.4728mm 107.3430mm 72.2348mm 
-D1         121.9480mm   25.2730mm    BottomLayer 0        121.9480mm 25.2730mm 120.9980mm 26.2730mm 
+D1         122.8370mm   25.2730mm    BottomLayer 0        122.8370mm 25.2730mm 121.8870mm 26.2730mm 
 D2         114.4550mm   25.2730mm    BottomLayer 0        114.4550mm 25.2730mm 113.5050mm 26.2730mm 
 J1         15.9756mm    88.2545mm    BottomLayer 180      15.9756mm  88.2545mm 4.5456mm   86.9845mm 
 J2         82.2125mm    29.6175mm    TopLayer    0        82.5300mm  33.1100mm 78.0850mm  33.7450mm 
@@ -31,7 +31,7 @@ J3         122.8525mm   28.6650mm    TopLayer    0        120.6300mm 33.1100mm 1
 J4         43.9156mm    88.2545mm    BottomLayer 180      43.9156mm  88.2545mm 55.3456mm  89.5245mm 
 J5         80.9425mm    72.1400mm    TopLayer    0        82.2200mm  74.1350mm 78.0850mm  70.2350mm 
 J6         119.0425mm   72.1400mm    TopLayer    0        120.3200mm 74.1350mm 116.1850mm 70.2350mm 
-J7         8.4836mm     52.1528mm    BottomLayer 90       8.4836mm   52.1528mm 9.1436mm   56.6528mm 
+J7         8.4836mm     66.2752mm    BottomLayer 90       8.4836mm   66.2752mm 9.1436mm   70.7752mm 
 J8         4.1910mm     37.4716mm    TopLayer    90       4.1910mm   37.4716mm 4.1910mm   34.9316mm 
 L1         17.8188mm    35.1828mm    BottomLayer 270      17.8188mm  35.1828mm 17.8188mm  36.1328mm 
 LED1       75.5300mm    85.6550mm    TopLayer    180      75.5300mm  85.6550mm 76.8000mm  85.6550mm 
