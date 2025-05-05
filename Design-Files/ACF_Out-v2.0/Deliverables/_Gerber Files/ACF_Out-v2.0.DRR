@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ACF_Out-v2.0.PcbDoc   02/05/2025  10:11:19 pm
+NCDrill File Report For: ACF_Out-v2.0.PcbDoc   5/6/2025  12:01:25 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : ACF_Out-v2.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.5mm (20mil)                                             Round             54        PTH        495.84mm (19.52inch)
+T1      0.5mm (20mil)                                             Round             136       PTH        1417.64mm (55.81inch)
 T2      0.8mm (31mil)                                             Round             16        PTH        79.34mm (3.12inch)
 T3      0.9mm (35mil)                                             Round             8         PTH        71.18mm (2.80inch)
 T4      1.02mm (40mil)                                            Round             8         PTH        21.00mm (0.83inch)
@@ -18,6 +18,6 @@ T8      3.4mm (134mil)                                            Round         
 T9      1.6mm (63mil)                                             Round             4         NPTH       96.28mm (3.79inch)
 T10     3mm (118mil)                                              Round             2         NPTH       4.70mm (0.19inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              150
+Totals                                                                              232
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
